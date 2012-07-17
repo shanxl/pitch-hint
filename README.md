@@ -12,6 +12,5 @@ MuseScore 2.0, which is under development, will adopt a new plugin system. This 
 
 Enjoy your music!
 
-MuseScore plugin reference:
-http://musescore.org/en/plugin-development
-
+1. How to install a plugin: http://musescore.org/en/handbook/plugins
+2. MuseScore plugin reference: http://musescore.org/en/plugin-development
