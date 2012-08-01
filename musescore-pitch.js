@@ -188,7 +188,7 @@ function run() {
 //           in the MuseScore menu structure
 //---------------------------------------------------------
 var mscorePlugin = {
-  mojorVersion: 1,
+  majorVersion: 1,
   minorVersion: 1,
   menu: 'Plugins.Pitch Hint',
   init: init,
